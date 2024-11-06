@@ -15,7 +15,7 @@ Check out the live demo [here](your-demo-url-here).
 
 ### Showcase
 
-![Linkly Showcase](./public/showcase-image.png)
+![Linkly Showcase](https://github.com/abdulrcodes/linkly-shorten-and-manage-links/blob/main/public/showcase.png)
 
 This is a preview of the Linkly landing page. You can view the full page by visiting the live demo or running it locally.
 
