@@ -20,7 +20,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ testimonial }) => {
 
       {/* Quote */}
       <blockquote className="relative z-10 text-gray-200 text-center italic font-light text-sm md:text-base line-clamp-3 mb-4">
-        "{testimonial.quote}"
+        {testimonial.quote}
       </blockquote>
 
       {/* Name */}
