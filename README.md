@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Linkly - Effortlessly Shorten and Manage Links
 
-## Getting Started
+Linkly is a simple and efficient landing page built with Next.js 15 and Tailwind CSS, showcasing the ability to shorten and manage links. This repository contains the source code and setup instructions for the Linkly landing page.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Demo](#demo)
+- [Features](#features)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Check out the live demo [here](your-demo-url-here).
 
-## Learn More
+### Showcase
 
-To learn more about Next.js, take a look at the following resources:
+![Linkly Showcase](./public/showcase-image.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This is a preview of the Linkly landing page. You can view the full page by visiting the live demo or running it locally.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Features
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Link Shortening**: Effortlessly shorten any URL for sharing.
+- **Link Management**: Highlighting key functionalities in managing shortened links.
+- **Responsive Design**: Optimized for all screen sizes including mobile, tablet, and desktop.
+- **Call to Action**: A prominent CTA button guiding users to sign up or get started.
